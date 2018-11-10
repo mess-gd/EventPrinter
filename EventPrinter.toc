@@ -1,0 +1,5 @@
+## Interface: 5875
+## Title: EventPrinter
+## Notes: Prints Combat Log Events for dev
+EventPrinter.lua
+EventPrinter.xml
